@@ -12,7 +12,7 @@ def load_data():
     return df
 
 df = load_data()
-
+ 
 # --- Page Config ---
 st.set_page_config(page_title="Beijing Air Quality Dashboard", layout="wide")
 
