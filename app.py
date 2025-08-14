@@ -39,7 +39,7 @@ if page == "Data Overview":
     st.write(df.isnull().sum())
 
 # ------------------------
-# EDA Section
+# EDA Section 
 # ------------------------
 elif page == "EDA":
     st.header("Exploratory Data Analysis")
